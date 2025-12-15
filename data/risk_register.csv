@@ -1,0 +1,6 @@
+Asset_ID,Asset_Name,Asset_Type,Threat,Vulnerability,Impact,Likelihood,Risk_Score,Risk_Level,Mitigation,Risk_Owner
+A001,Employee Laptop,Hardware,Malware,No endpoint protection,3,4,12,Medium,Install antivirus and patch systems,IT Admin
+A002,Web Server,Server,SQL Injection,Improper input validation,5,3,15,High,Implement input validation and WAF,Security Team
+A003,Email System,Service,Phishing,Lack of user awareness,3,4,12,Medium,Conduct security awareness training,HR/IT
+A004,Customer Database,Data,Data Breach,Weak access controls,5,4,20,High,Apply access control and encryption,DB Admin
+A005,Wi-Fi Network,Network,Unauthorized Access,Weak password policy,3,3,9,Medium,Use strong passwords and WPA3,Network Admin
